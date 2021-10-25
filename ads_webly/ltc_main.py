@@ -198,7 +198,7 @@ def stage_1():
 		os.system("clear && sleep 1") 
 		print ( "-------------------------------------------------------")
 		print(emoji.emojize("Website    : "+urls_BVB+' :check_mark_button: :alien:'))
-		print(emoji.emojize("Resolution : "+cnf_bvb.random_display_chose+' :check_mark_button: :alien:'))
+		print(emoji.emojize("Resolution : "+""+' :check_mark_button: :alien:'))
 		#####TO DO PRINT ONLY THE SYSTEM
 		#print(width+"x"+height)
 		print("System     : "+sys_use_agent)
