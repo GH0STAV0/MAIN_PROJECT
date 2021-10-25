@@ -20374,6 +20374,8 @@ file_vpn_dead=pwd+"/DEAD_CONFIG_TCP/"
 # 	p_vpn_g=pwd+"/N0RD/WORKING_CONFIG/"
 p_vpn_dead=pwd+"/N0RD/DEAD_CONFIG_TCP/"
 #CHEAP_VPN
+extension_path=pwd+"/src/canvasblocker44b.xpi"
+
 
 def randomm():
 	random_vpn=random.choice(os.listdir(p_vpn_g))
