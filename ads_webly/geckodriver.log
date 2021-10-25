@@ -63,3 +63,11 @@ Sandbox: PLEASE DO NOT RUN THIS AS ROOT.  Strange things may happen when capabil
 JavaScript error: https://cdn.jsdelivr.net/npm/@fingerprintjs/fingerprintjs-pro@3/dist/fp.min.js, line 8: Error: Client timeout
 JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1633380165, line 4: unreachable code after return statement
 JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1633380165, line 4: unreachable code after return statement
+Sandbox: seccomp sandbox violation: pid 850566, tid 850566, syscall 315, args 850566 139953876951360 56 0 139953876951104 139953876951360.
+Sandbox: seccomp sandbox violation: pid 850566, tid 850566, syscall 332, args 40 139954163168050 4096 1 140723735944688 139953876963984.
+Sandbox: unsupported fd-relative fstatat(40, "", 0x7FFCCC4ADC40, 4096)
+Sandbox: seccomp sandbox violation: pid 850566, tid 850566, syscall 262, args 40 139954163168050 140723735944256 4096 4096 1.
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 830: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 830: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 830: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 830: Error: WebExtension context not found!
