@@ -1,0 +1,65 @@
+1635174120646	mozrunner::runner	INFO	Running command: "/root/EXTRA/firefox-60.0.1esr/firefox/firefox" "-marionette" "--width=2560" "--height=1600" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRHmGQU"
+Sandbox: seccomp sandbox violation: pid 849546, tid 849546, syscall 315, args 849546 140277156363456 56 0 140277156360256 140277156363456.
+Sandbox: seccomp sandbox violation: pid 849546, tid 849546, syscall 332, args 33 140277394707250 4096 1 140725156498336 140277156532400.
+Sandbox: unsupported fd-relative fstatat(33, "", 0x7FFD20F6C9F0, 4096)
+Sandbox: seccomp sandbox violation: pid 849546, tid 849546, syscall 262, args 33 140277394707250 140725156497904 4096 4096 1.
+1635174130981	Marionette	INFO	Listening on port 33519
+1635174131069	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: blob:moz-extension://4a1204f5-0c48-462c-afbf-75c53863cef4/0f62e91e-2e58-44bc-85af-9b8c150e7a33, line 2: ReferenceError: require is not defined
+Sandbox: seccomp sandbox violation: pid 849546, tid 849705, syscall 203, args 849705 128 140276674555232 8 140276674557504 1.
+Sandbox: seccomp sandbox violation: pid 849546, tid 849706, syscall 203, args 849706 128 140276666162528 8 140276666164800 1.
+Sandbox: seccomp sandbox violation: pid 849546, tid 849707, syscall 203, args 849707 128 140276657769824 8 140276657772096 1.
+Sandbox: seccomp sandbox violation: pid 849546, tid 849708, syscall 203, args 849708 128 140276649377120 8 140276649379392 1.
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1633380165, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1633380165, line 4: unreachable code after return statement
+Sandbox: seccomp sandbox violation: pid 849578, tid 849578, syscall 315, args 849578 140583323933312 56 0 140583323930688 140583323933312.
+Sandbox: seccomp sandbox violation: pid 849578, tid 849578, syscall 332, args 34 140583561384754 4096 1 140731800202288 140583324196640.
+Sandbox: unsupported fd-relative fstatat(34, "", 0x7FFEACF5AA80, 4096)
+Sandbox: seccomp sandbox violation: pid 849578, tid 849578, syscall 262, args 34 140583561384754 140731800201856 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 849578, tid 849765, syscall 203, args 849765 128 140582970154336 8 140582970156608 1.
+Sandbox: seccomp sandbox violation: pid 849578, tid 849764, syscall 203, args 849764 128 140582978547040 8 140582978549312 1.
+Sandbox: seccomp sandbox violation: pid 849578, tid 849766, syscall 203, args 849766 128 140582961761632 8 140582961763904 1.
+Sandbox: seccomp sandbox violation: pid 849578, tid 849767, syscall 203, args 849767 128 140582953368928 8 140582953371200 1.
+WebGL(0x7fdc04356800)::ForceLoseContext
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 861: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 861: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 861: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 861: Error: WebExtension context not found!
+1635174345744	mozrunner::runner	INFO	Running command: "/root/EXTRA/firefox-58.0.1/firefox/firefox" "-marionette" "--width=750" "--height=1334" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletCIzES"
+1635174349368	Marionette	INFO	Enabled via --marionette
+Sandbox: seccomp sandbox violation: pid 850012, tid 850012, syscall 315, args 850012 140144505534976 56 0 140144505532480 140144505534976.
+Sandbox: seccomp sandbox violation: pid 850012, tid 850012, syscall 332, args 40 140144754213682 4096 1 140722283476384 140144467340656.
+Sandbox: unsupported fd-relative fstatat(40, "", 0x7FFC75B7F3F0, 4096)
+Sandbox: seccomp sandbox violation: pid 850012, tid 850012, syscall 262, args 40 140144754213682 140722283475952 4096 4096 1.
+1635174356092	Marionette	INFO	Listening on port 33887
+1635174356188	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sandbox: PLEASE DO NOT RUN THIS AS ROOT.  Strange things may happen when capabilities are dropped.
+JavaScript error: https://cdn.jsdelivr.net/npm/@fingerprintjs/fingerprintjs-pro@3/dist/fp.min.js, line 8: Error: Client timeout
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1633380165, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1633380165, line 4: unreachable code after return statement
+Sandbox: seccomp sandbox violation: pid 850052, tid 850052, syscall 315, args 850052 139645649690816 56 0 139645649690688 139645649690816.
+Sandbox: seccomp sandbox violation: pid 850052, tid 850052, syscall 332, args 40 139645823869746 4096 1 140727413923776 139645537976976.
+Sandbox: unsupported fd-relative fstatat(40, "", 0x7FFDA7845E10, 4096)
+Sandbox: seccomp sandbox violation: pid 850052, tid 850052, syscall 262, args 40 139645823869746 140727413923344 4096 4096 1.
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 830: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 830: Error: WebExtension context not found!
+JavaScript error: https://www.gstatic.com/charts/51/loader.js, line 100: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/charts/51/loader.js, line 100: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/charts/51/loader.js, line 100: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/charts/51/loader.js, line 100: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 830: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 830: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 830: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 830: Error: WebExtension context not found!
+1635175347766	mozrunner::runner	INFO	Running command: "/root/EXTRA/firefox-58.0.1/firefox/firefox" "-marionette" "--width=2732" "--height=2048" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile64vUgF"
+1635175349064	Marionette	INFO	Enabled via --marionette
+Sandbox: seccomp sandbox violation: pid 850526, tid 850526, syscall 315, args 850526 139783211416192 56 0 139783211413568 139783211416192.
+Sandbox: seccomp sandbox violation: pid 850526, tid 850526, syscall 332, args 40 139783460238130 4096 1 140737278537184 139783173139824.
+Sandbox: unsupported fd-relative fstatat(40, "", 0x7FFFF37E6C30, 4096)
+Sandbox: seccomp sandbox violation: pid 850526, tid 850526, syscall 262, args 40 139783460238130 140737278536752 4096 4096 1.
+1635175352735	Marionette	INFO	Listening on port 44607
+1635175352830	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sandbox: PLEASE DO NOT RUN THIS AS ROOT.  Strange things may happen when capabilities are dropped.
+JavaScript error: https://cdn.jsdelivr.net/npm/@fingerprintjs/fingerprintjs-pro@3/dist/fp.min.js, line 8: Error: Client timeout
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1633380165, line 4: unreachable code after return statement
+JavaScript warning: https://cdn2.editmysite.com/js/site/main.js?buildTime=1633380165, line 4: unreachable code after return statement
